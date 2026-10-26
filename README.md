@@ -11,7 +11,7 @@ of every session so you always know which account you are talking to.
 ## Install (macOS, zsh)
 
 ```sh
-git clone <this repo> ~/cc && ~/cc/install.sh
+git clone https://github.com/jethromayuk/claude-code-cc.git ~/claude-code-cc && ~/claude-code-cc/install.sh
 exec zsh
 ```
 

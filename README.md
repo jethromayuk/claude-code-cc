@@ -1,4 +1,4 @@
-# cc — Claude Code account switcher
+# Claude Code account switcher
 
 Switch Claude Code between a **work** and a **personal** account (or any number
 of accounts) without logging out and back in. Each profile is its own
